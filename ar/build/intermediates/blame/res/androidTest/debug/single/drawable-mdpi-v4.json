@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Proyectos\\AppVisita\\ar\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\Proyectos\\AppVisita\\ar\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\AppVisita\\ar\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\wikipedia.png",
+        "source": "D:\\Proyectos\\AppVisita\\ar\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\wikipedia.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\AppVisita\\ar\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\osm.png",
+        "source": "D:\\Proyectos\\AppVisita\\ar\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\osm.png"
+    }
+]

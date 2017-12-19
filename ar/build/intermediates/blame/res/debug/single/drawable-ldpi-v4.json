@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Proyectos\\AppVisita\\ar\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\osm.png",
+        "source": "D:\\Proyectos\\AppVisita\\ar\\src\\main\\res\\drawable-ldpi\\osm.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\AppVisita\\ar\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\wikipedia.png",
+        "source": "D:\\Proyectos\\AppVisita\\ar\\src\\main\\res\\drawable-ldpi\\wikipedia.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\AppVisita\\ar\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "D:\\Proyectos\\AppVisita\\ar\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]
